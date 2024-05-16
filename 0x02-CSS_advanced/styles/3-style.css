@@ -1,0 +1,29 @@
+
+
+/* Effortless transitions when scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* Foreground colors */
+
+body {
+    color: var(--text-color);
+}
+
+a {
+    color: var(--text-color);
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.card-category {
+    color: var(--color-primary);
+}
+
+.section-tagline {
+    color: var(--color-primary);
+}
